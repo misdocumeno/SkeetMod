@@ -13,5 +13,5 @@ You need [L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive
 This config is just like NextMod but with a few changes
 
 - Only hunter infected spawn
-- Tank health changed to 6999HP in 4v4 and to 6000HP on 3v3
 - Tank gunfire slowdown set to 0.1
+- Added l4d2_nobackjump to all configs
