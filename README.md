@@ -1,17 +1,17 @@
 # SkeetMod
-This config is based upon [NextMod 1.0.4](https://github.com/spoon-l4d2/NextMod/).
+Based on [NextMod 1.0.4](https://github.com/spoon-l4d2/NextMod/)
 
+***Version 0.0.3***
 
-**Prerequisites:**
-
-You need [L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework) installed on your L4D2 server.
-
-
-
-**About SkeetMod:**
-
-This config is just like NextMod but with a few changes
-
+### Infected
 - Only hunter infected spawn
-- Tank gunfire slowdown set to 0.1
 - Added l4d2_nobackjump to all configs
+
+### Weapons
+- Pump shotgun damage set to 14
+- Uzi reload speed set to 1.88
+- Uzi spread per shot set to 0.26
+- Uzi max spread while moving set to 0.32
+- Uzi damage set to 22
+- Silenced smg reload speed set to 2.0
+- Silenced smg spread per shot set to 0.32
